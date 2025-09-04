@@ -1,8 +1,15 @@
-E-commerce Customer Spending Prediction using Linear Regression
+# **E-commerce Customer Spending Prediction using Linear Regression**
+
 A machine learning project that predicts yearly customer spending using linear regression on an e-commerce dataset.
-📊 Project Overview
+
+
+ ## **📊 Project Overview**
+
 This project implements a linear regression model to predict the yearly amount spent by customers based on various features from an e-commerce dataset. The model helps businesses understand customer spending patterns and make data-driven decisions for marketing and sales strategies.
-📈 Dataset
+
+
+## **📈 Dataset**
+
 The project uses an E-commerce Customer Dataset containing customer information and their spending patterns.
 Features
 
@@ -12,7 +19,8 @@ Time on Website: Time spent on the website
 Length of Membership: How long the customer has been a member
 Yearly Amount Spent: Target variable - total yearly spending (to be predicted)
 
-🛠️ Technologies Used
+
+## **🛠️ Technologies Used**
 
 Python 3.x
 Jupyter Notebook
@@ -22,14 +30,17 @@ Matplotlib - Data visualization
 Seaborn - Statistical data visualization
 Scikit-learn - Machine learning library
 
-📊 Model Performance
+
+## **📊 Model Performance**
+
 The linear regression model achieves:
 
 R² Score: 103.9155413650325
 Mean Absolute Error (MAE): 8.426091641432068
 Root Mean Square Error (RMSE): 10.193897260863114
 
-🤝 Contributing
+
+## **🤝 Contributing**
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 Fork the project
@@ -38,6 +49,7 @@ Commit your changes
 Push to the branch 
 Open a Pull Request
 
-📄 License
+
+## **📄 License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
